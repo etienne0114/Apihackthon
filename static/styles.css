@@ -1,0 +1,26 @@
+body{
+  background: #372c8c;
+  color: white;
+  padding: 16px;
+  letter-spacing: 1px;
+}
+
+img {
+  float: left;
+  margin-right: 15px;
+  width: 150px;
+  height: 100px;
+  border-radius: 1px rounded-borderbox;
+  background-color: rgb(207 232 220);
+  padding: 1em;
+  margin-top: 20px;
+  border-radius:10px;
+  box-shadow: 2px 2px 3px solid skyblue;
+}
+h1{
+  color: #5de641;
+}
+img:hover{
+  cursor:pointer;
+  box-shadow: 5px 2px 2px black;
+}
